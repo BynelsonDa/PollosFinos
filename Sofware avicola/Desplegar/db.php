@@ -1,8 +1,7 @@
 <?php
 
 
-$conex = mysqli_connect("localhost","root","","pollosfinosayd");
-
+$conex = mysqli_connect("roundhouse.proxy.rlwy.net","root","jMgBEhSyQfJTlguzrOyPgqtgcrbTBYRE","railway");
 
 
 ?>
