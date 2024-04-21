@@ -1,0 +1,40 @@
+.login-button{
+  
+   border: 1.5px solid #f2f5f7;
+   border-radius: 2em;
+   padding: 0.6rem 0.8rem;
+   margin-left: 62vw;
+   margin-top: 12%;
+   font-size: 1rem;
+   cursor: pointer;
+   
+
+}
+.login-button:hover {
+   color: #131418;
+   background-color: #f2f5f7;
+   border:1.5px solid #f2f5f7;
+   transition: all ease-in-out 350ms;
+}
+.nav-links{
+   display: flex;
+   list-style: none; 
+   width: 24vw;
+   padding: 0 1.7vw;
+   justify-content: space-evenly;
+   align-items: center;
+   text-transform: uppercase;
+}
+.nav-links li a{
+   text-decoration: none;
+   margin: 0 0.7vw;
+}
+.nav-links li a:hover {
+   color: #61DAFB;
+}
+.nav-links li {
+   position: relative;
+}
+.nav-links li a:hover::before{
+   width: 80%;
+}

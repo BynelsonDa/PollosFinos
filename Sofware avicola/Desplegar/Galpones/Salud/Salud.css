@@ -1,0 +1,13 @@
+
+.re {
+    padding: auto;
+    right: 30px;
+    flex: 21;
+  }
+  
+  .card {
+    position: fixed;
+    overflow-y: auto;
+    height: calc(100vh - 225px); /* Assuming 30px is the total top/bottom padding/margin */
+  }
+  

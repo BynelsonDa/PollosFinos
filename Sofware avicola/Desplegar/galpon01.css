@@ -1,0 +1,9 @@
+.button-list {
+    list-style: none;
+    padding: 0;
+}
+
+.button-list li {
+    display: inline-block;
+    margin-bottom: 10px; /* Adjust as needed for spacing between pairs */
+}
